@@ -1,8 +1,14 @@
 ### Greetings 👋, I'm Rafael Coelho!
-*Electrical Engineering student at University of São Paulo (USP) <br>
-Research Intern on Computer Vision at [LSITEC](https://www.lsitec.org.br/) <br>
+*Undergraduate in Electrical Engineering - Emphasis in Computer Science at University of São Paulo (USP) <br>
+Software Development Engineer at Amazon <br>
 Undergraduate Researcher at [PARSEC project](https://parsecproject.org/) <br>
 Member at [Turing USP](https://github.com/turing-usp) <br>*
+
+<!--
+Former Experiences:
+Research Intern on Computer Vision at [LSITEC](https://www.lsitec.org.br/) <br>
+-->
+
 <!--
 **rafael-acoelho/rafael-acoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,10 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ## 🔭 I’m currently working on:
+- Software Development
 - Computer Vision
 - Machine Learning
 - Data Science
+-->
 
 ## 📄 Posts
 
