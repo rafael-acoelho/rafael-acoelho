@@ -1,8 +1,8 @@
 ### Greetings 👋, I'm Rafael Coelho!
-*Undergraduate in Electrical Engineering - Emphasis in Computer Science at University of São Paulo (USP) <br>
+*Bachelor in Electrical Engineering - Emphasis in Computer Science at University of São Paulo (USP) <br>
 Software Development Engineer at Amazon <br>
-Undergraduate Researcher at [PARSEC project](https://parsecproject.org/) <br>
-Member at [Turing USP](https://github.com/turing-usp) <br>*
+Researcher at [PARSEC project](https://parsecproject.org/) <br>
+Former member at [Turing USP](https://github.com/turing-usp) <br>*
 
 <!--
 Former Experiences:
